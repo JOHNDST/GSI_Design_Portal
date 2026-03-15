@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gsi-design-demo/static/css/main.1c042eb4.css",
-    "main.js": "/gsi-design-demo/static/js/main.4a9f389e.js",
-    "static/js/453.b417d24f.chunk.js": "/gsi-design-demo/static/js/453.b417d24f.chunk.js",
-    "index.html": "/gsi-design-demo/index.html",
-    "main.1c042eb4.css.map": "/gsi-design-demo/static/css/main.1c042eb4.css.map",
-    "main.4a9f389e.js.map": "/gsi-design-demo/static/js/main.4a9f389e.js.map",
-    "453.b417d24f.chunk.js.map": "/gsi-design-demo/static/js/453.b417d24f.chunk.js.map"
+    "main.css": "/GSI_Design_Portal/static/css/main.1c042eb4.css",
+    "main.js": "/GSI_Design_Portal/static/js/main.a25d98af.js",
+    "static/js/453.b417d24f.chunk.js": "/GSI_Design_Portal/static/js/453.b417d24f.chunk.js",
+    "index.html": "/GSI_Design_Portal/index.html",
+    "main.1c042eb4.css.map": "/GSI_Design_Portal/static/css/main.1c042eb4.css.map",
+    "main.a25d98af.js.map": "/GSI_Design_Portal/static/js/main.a25d98af.js.map",
+    "453.b417d24f.chunk.js.map": "/GSI_Design_Portal/static/js/453.b417d24f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c042eb4.css",
-    "static/js/main.4a9f389e.js"
+    "static/js/main.a25d98af.js"
   ]
 }
