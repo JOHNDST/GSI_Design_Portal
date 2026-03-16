@@ -1016,8 +1016,8 @@ const App = () => {
         {/* Header */}
         <header className="flex flex-col md:flex-row md:items-center justify-between gap-4">
           <div>
-            <h1 className="text-3xl font-bold text-slate-800 tracking-tight">GSI Voxel Parameter Calculator</h1>
-            <p className="text-slate-500 mt-1">Design a 3D rain garden model for InVEST Urban Cooling & Nature Models</p>
+            <h1 className="text-3xl font-bold text-slate-800 tracking-tight">Multifunctional GSI Design Portal</h1>
+            <p className="text-slate-500 mt-1">Converting GI designs to model parameters for multifunctionality evaluation</p>
           </div>
         </header>
 
